@@ -1,0 +1,26 @@
+.div-boton{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap:10px;
+  }
+
+  .div-login{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+
+  .login{
+    width: 450px;
+    height: 540px;
+    padding: 10px 30px;
+    background-color: black;
+  }
+
+  .container-login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
